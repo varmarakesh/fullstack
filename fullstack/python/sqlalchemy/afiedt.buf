@@ -1,0 +1,2 @@
+select dbms_metadata.get_ddl('CC3','EMAIL','TABLE') from dual
+/
